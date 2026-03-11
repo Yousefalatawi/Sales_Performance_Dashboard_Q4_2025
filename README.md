@@ -9,10 +9,9 @@ Interactive Excel dashboard analyzing Q4 2025 sales performance.
 - Repeat Rate: 135%
 
 Dashboard Preview
-![Dashboard](dashboard_preview.png)
+
 
 Tools Used
 - Microsoft Excel
 - Pivot Tables
-- Slicers
 - KPI calculations using formulas
